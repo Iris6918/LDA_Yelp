@@ -1,6 +1,7 @@
-# LDA_Yelp
+# LDA Yelp
 Text clustering & Topic Modeling
 ## Data Source
 From Yelp Data Competition. https://www.yelp.com/dataset/challenge
 
+## Data Description
 
